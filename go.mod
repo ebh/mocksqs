@@ -1,4 +1,4 @@
-module github.com/elliotchance/mocksqs
+module github.com/ebh/mocksqs
 
 go 1.12
 
